@@ -39,7 +39,7 @@ const map = new ol.Map({
 
 ## Install
 
-`npm install notnotse/ol-geojson-vt --save`
+`npm install ol-geojson-vt --save`
 
 ## Development
 
