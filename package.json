@@ -1,6 +1,6 @@
 {
   "name": "ol-geojson-vt",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Load GeoJSON as vector tiles",
   "main": "lib/index.js",
   "scripts": {
@@ -25,11 +25,12 @@
     "babel-preset-es2015": "^6.22.0",
     "css-loader": "^0.26.1",
     "html-webpack-plugin": "^2.28.0",
+    "openlayers": "^4.5.0",
     "style-loader": "^0.13.1",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.0"
   },
   "dependencies": {
-    "geojson-vt": "^2.4.0"
+    "geojson-vt": "^3.0.0"
   }
 }
